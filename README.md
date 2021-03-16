@@ -1,8 +1,7 @@
 # Project
-Project Soldeerbout met temperatuurregeling
+Project Soldering iron with temperatureregulation
 
-Ik ga een soldeerbout maken voor mijn project. Het schema ga ik overnemen in Altium om de pcb te ontwerpen. Als de pcb af is ga ik de componenten erop solderen.
-
+I am making a soldering iron for my project. I will remake the schematic on Altium to design the pcb. When the pcb is done I will solder the components on it.
 
 Schema:
 
