@@ -1,7 +1,7 @@
 # Project
 Project Soldeerbout met temperatuurregeling
 
-Ik ga een soldeerbout maken voor mijn project. Het schema ga ik overnemen in Altium om de pcb te ontwerpen.
+Ik ga een soldeerbout maken voor mijn project. Het schema ga ik overnemen in Altium om de pcb te ontwerpen. Als de pcb af is ga ik de componenten erop solderen.
 
 
 Schema:
